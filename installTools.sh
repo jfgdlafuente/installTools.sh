@@ -1,6 +1,6 @@
 #!/bin/bash
 
-tools_directory="/home/jfg/Downloads/tools"
+tools_directory="~/Downloads/tools"
 
 function ctrl_c(){
     echo -e "\nSaliendo...\n"
